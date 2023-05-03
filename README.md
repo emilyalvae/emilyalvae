@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emily Alva</h1>
-<h3 align="center">"Backend developer, passionate about technology and innovation, always seeking new ways to improve code and optimize processes."</h3>
+<h3 align="center">Backend developer, passionate about technology and innovation, always seeking new ways to improve code and optimize processes.</h3>
 
 - 📫 How to reach me **emilisa23@gmail.com**
 
